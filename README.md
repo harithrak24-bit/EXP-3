@@ -1,6 +1,6 @@
 ## EXPERIMENT NO. 3 – STAIRCASE WIRING
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:Harithra.K | | **Reg. No: 26012954
 |---|---|---|---|
 | **Date:** | | **Batch / Section:** | |
 
@@ -50,17 +50,17 @@ To control the status of the given lamp by using two-way switches.
 *[ Insert the direct connection circuit diagram here ]*
 
 **Figure 1:** Staircase wiring – direct connection
+<img width="1086" height="727" alt="image" src="https://github.com/user-attachments/assets/d9eb0609-2f3b-4d71-9755-339db840e587" />
+Figure 2 :
+<img width="1050" height="760" alt="image" src="https://github.com/user-attachments/assets/982b4d46-c935-40e5-b5f8-b74fcc3003d0" />
+
+
 
 ### Tabulation 1: Truth table – direct connection
 
-*Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
-
 | S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+<img width="1272" height="565" alt="image" src="https://github.com/user-attachments/assets/b2b1fb70-76b6-4e3f-8aad-3e4bf815a8d2" />
+
 
 ## B. CROSS CONNECTION
 
@@ -68,34 +68,34 @@ To control the status of the given lamp by using two-way switches.
 
 *[ Insert the cross connection circuit diagram here ]*
 
-**Figure 2:** Staircase wiring – cross connection
 
 ### Tabulation 2: Truth table – cross connection
 
 *Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
 
 | S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+<img width="1024" height="519" alt="image" src="https://github.com/user-attachments/assets/10035eb2-cbcb-4a8c-8d54-feff4a32aa1b" />
+
+
 
 ## SIMULATION USING PROTEUS
 
 Build both the direct and cross connection circuits in Proteus using an AC source, two SPDT switches and a lamp. Run the simulation for each switch combination and paste screenshots showing the lamp ON and OFF states.
 
-### A. Direct connection – simulation
+### A. Direct connection – simulatioN
 
-*[ Paste the Proteus direct connection simulation screenshot here ]*
+ Paste the Proteus direct connection simulation screenshot here ]*
 
-**Figure 3:** Proteus simulation – direct connection
+Figure 3:
+<img width="1214" height="696" alt="image" src="https://github.com/user-attachments/assets/8ad688e5-336c-4e7c-a7b8-76474b9154ec" />
+
 
 ### B. Cross connection – simulation
 
-*[ Paste the Proteus cross connection simulation screenshot here ]*
+<img width="1272" height="643" alt="image" src="https://github.com/user-attachments/assets/0319fff8-24b0-4337-b569-6c4e95c66e14" />
 
-**Figure 4:** Proteus simulation – cross connection
+
+
 
 ## RESULT
 
